@@ -245,3 +245,6 @@ transition: color 0.3s ease-out;
 
 .underline-1{color:rgb(75, 223, 223);}
 
+.image{width: 220px;
+height: auto;
+padding-bottom: 15px;}
