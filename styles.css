@@ -10,7 +10,6 @@ body {
 }
 
 .menu { 
-    width: 80%;
     background-color: rgba(184, 106, 106, 0.5);
     margin-left: auto;
     margin-right: auto;
@@ -75,7 +74,7 @@ hr {
   
   .bhajapora, .fast, .rice, .snacks, .drinks {
     text-align: left;
-    width: 85%;
+    width: 75%;
     font-weight: 1000;
     font-style: italic;
   }
@@ -85,5 +84,3 @@ hr {
  }
 
 
-
- 
